@@ -26,7 +26,7 @@ http://203.162.235.41:16911
 http://203.162.235.41:16915
 #EXTINF:-1 tvg-id="BSN.JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png" group-title="日韩频道",BS 日テレ
 http://203.162.235.41:16912
-#EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日韩频道",シネフィルWOWOW
+#EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://i.postimg.cc/fRNKJJSL/WOWOW-CINEMA.png" group-title="日韩频道",シネフィルWOWOW
 http://203.162.235.41:16916
 #EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" tvg-name="大爱一台" group-title="台湾地区,大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
